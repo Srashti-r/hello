@@ -1,2 +1,2 @@
 # hello
-author : Srashti
+Author : Srashti
